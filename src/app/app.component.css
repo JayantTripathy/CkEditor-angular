@@ -1,0 +1,15 @@
+.customClass
+{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.custom-font
+{
+    font-size: 20px;
+    font-style: italic;
+}
+.ck-editor__editable_inline
+{
+    height: 100px !important;
+}
